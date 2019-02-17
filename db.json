@@ -1,5 +1,7 @@
 {
-  "airline": "British Airways",
-  "flight": "BA 199",
-  "departure": "22/02/2019"
+  "travelpass": {
+    "airline": "British Airways",
+    "flight": "BA 199",
+    "departure": "22/02/2019"
+  }
 }
