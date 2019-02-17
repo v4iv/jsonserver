@@ -2,6 +2,7 @@
   "travelpass": {
     "airline": "British Airways",
     "flight": "BA 199",
-    "departure": "22/02/2019"
+    "departure": "22/02/2019",
+    "email": "foo@bar.com"
   }
 }
